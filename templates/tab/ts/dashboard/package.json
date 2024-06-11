@@ -14,7 +14,7 @@
         "@microsoft/teamsfx": "^2.0.1",
         "@microsoft/teamsfx-react": "^2.0.1",
         "@react-hook/resize-observer": "^1.2.6",
-        "axios": "^0.21.1",
+        "axios": "^1.7.2",
         "msteams-react-base-component": "^4.0.1",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
